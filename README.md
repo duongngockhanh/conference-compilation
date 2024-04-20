@@ -1,7 +1,7 @@
 # conference-compilation
 Compile the top tier conferences related to CV and ML sorted by chronological order.
 
-|Name|Time|Time Code|Rank|Field|
+|Name|Deadline|Time Code|Rank|Field|
 |-|:-:|:-:|-|-|
 |NIPS|mid May|b5|A*|ML|
 |ICLR|last September|c9|A*|ML|
